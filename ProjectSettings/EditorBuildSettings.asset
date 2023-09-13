@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TKO_SPlash_Movie.unity
+    guid: 4f3ef5a85e0124383b282a0fba460411
+  - enabled: 1
+    path: Assets/Scenes/Intro_Movie.unity
+    guid: c29cdede817294d23ae46bd64b627e0d
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: b63bff4ca576a5f4b9fee76ab4dda56f
+  - enabled: 1
+    path: Assets/Scenes/UI Menu.unity
+    guid: 09b045b9cfa535d45908ccce4e36db98
+  - enabled: 1
+    path: Assets/Scenes/lvl00_bootcamp.unity
+    guid: 86478d8c47b6d1a43934b5a7621390ef
+  - enabled: 1
+    path: Assets/Scenes/lvl01_picnic_rush_TERRAIN.unity
+    guid: 1d7ec16eb871bd942ad9245471ed94fd
+  - enabled: 1
+    path: Assets/Scenes/lvl02_muddy_tracks.unity
+    guid: 2352c4313589e87479c777837a3bd4f5
+  - enabled: 1
+    path: Assets/Scenes/lvl03_sidewalk.unity
+    guid: a469918f543856540bec86d91ac06b88
+  - enabled: 1
+    path: Assets/Scenes/lvl04_sandbox.unity
+    guid: 0026c533a8a18064f9fcf36f2ac4c447
+  - enabled: 1
+    path: Assets/Scenes/lvl05_shallowcreek.unity
+    guid: 6bf28855aa58df34283b67856286fef4
+  - enabled: 1
+    path: Assets/Scenes/lvl06_picnictable.unity
+    guid: 1158a239b34a1164791002f35f4f40e1
+  - enabled: 1
+    path: Assets/Scenes/lvl07_brokenlog.unity
+    guid: 985b22a0670c8804fa908faec71cfb02
+  - enabled: 1
+    path: Assets/Scenes/lvl08_PlayGround.unity
+    guid: 674affb64ebdb97409488bb8a5b5f595
+  - enabled: 1
+    path: Assets/Scenes/lvl09_toolshed.unity
+    guid: 13a283bf81cb2c4449021defcf1e24ab
+  - enabled: 0
+    path: Assets/Scenes/lvl09_toolshed1.unity
+    guid: 3f4ffc63577482148bb289fb91ddba5b
+  - enabled: 1
+    path: Assets/Scenes/lvl10_foodstand.unity
+    guid: 6297840ef182eff439f96ec2121b46b0
+  - enabled: 1
+    path: Assets/Scenes/lvl11_Parkinglot.unity
+    guid: 4bbdf19ea929fbf4ca3009ca7fb4a9d5
+  - enabled: 1
+    path: Assets/Scenes/lvl12_Island.unity
+    guid: 6be1d53b40127074c9151f8cd46632f3
+  - enabled: 1
+    path: Assets/Scenes/lvl13_soapy_fountain.unity
+    guid: 61f091f7d9f73044e924404a7e82643b
+  - enabled: 1
+    path: Assets/Scenes/lvl14_baseball_dugout.unity
+    guid: 73eb337a036ed6844be6a683c202ddf7
+  - enabled: 1
+    path: Assets/Scenes/lvl15_waterpark.unity
+    guid: 0abd6be3f37159e4f9c112bb501ab058
+  - enabled: 1
+    path: Assets/Scenes/lvl16_BBQ.unity
+    guid: e4c8dd4cac575344b81968eb4b9c9838
+  - enabled: 1
+    path: Assets/Scenes/lvl17_Rose_Garden.unity
+    guid: 0bbf9d4e9c373fa4fa9b1e64dd410959
+  - enabled: 1
+    path: Assets/Scenes/lvl18_Blue_Queens_Lair.unity
+    guid: 2ba1174021eef7c4c840f1f7924c9dc0
+  - enabled: 1
+    path: Assets/Scenes/lvl19_redqueens_lair.unity
+    guid: 54d89ce4e4280ad4c857591055f6a4e4
+  - enabled: 1
+    path: Assets/Scenes/Ending_Blue.unity
+    guid: 095c3db0cdfa845fc9a8746dc556191d
+  - enabled: 1
+    path: Assets/Scenes/Ending_Blue_Lose.unity
+    guid: 65ef7835f4b1e4297a27ad262896bbb5
+  - enabled: 1
+    path: Assets/Scenes/Ending_Red.unity
+    guid: 2e4f793c61a244019be23bb2f1dca7a3
+  - enabled: 1
+    path: Assets/Scenes/Ending_Red_Lose.unity
+    guid: 379cd8cc657244507a91c9e7a94fe12e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 213007aa0fc79a24e8651fc106e16b42,
+      type: 2}
